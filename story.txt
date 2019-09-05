@@ -1,4 +1,11 @@
 A long time ago, in a galaxy far, far away
 There was a jar of peanut butter.
+<<<<<<< HEAD
 Mr. Banana loved peanut butter so much
 hello
+||||||| merged common ancestors
+Mr. Banana loved peanut butter
+=======
+Testing is really cool.
+It really is.
+>>>>>>> testing
